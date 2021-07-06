@@ -1,3 +1,4 @@
+<?php echo '
 <html>
 <head>
 	<title>Security Warning</title>
@@ -36,4 +37,7 @@ form {
       <p><b>Note:</b> this warning will not appear again.</p>
 	</div>
 </body>
+</html>
+';?>
+
 </html>
